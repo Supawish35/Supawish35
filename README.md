@@ -1,17 +1,18 @@
-<h2 align="left">My name is Supaphawit Hanmontree.<br>I'm Student of Udon Rajabhat University.</h2>
+<h2 align="center">My name is Supaphawit Hanmontree.<br>I'm Student of Udon Rajabhat University.</h2>
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY2enFneWllc2dwMDkyeGJhMHhianJneDdhbG9vMm51ZGM3bm9kNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q17ox6dSWxCpLN21gb/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supawish35&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Supawish35&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -26,6 +27,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/mvi.sv/" target="_blank">
