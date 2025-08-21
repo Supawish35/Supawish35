@@ -1,4 +1,4 @@
-<h2 align="center">My name is Supaphawit Hanmontree.<br>I'm Student of Udon Rajabhat University.</h2>
+<h2 align="center">My name is Supphawit Hanmontree.<br>I'm Student of Udon Rajabhat University.</h2>
 
 ###
 
