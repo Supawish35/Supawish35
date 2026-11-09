@@ -1,79 +1,104 @@
-# Hi there, I'm Supawit Hanmontree 👋
+<div align="center">
 
-A passionate **Full-Stack Developer** and student at Udon Thani Rajabhat University, Thailand. I enjoy building responsive applications, designing backend systems, and continuously learning new technologies to solve real-world problems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=180&section=header&text=Supawit%20Hanmontree&fontSize=38&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descSize=18" alt="Supawit Hanmontree" width="100%" />
 
-## 👨‍💻 About Me
+  <br />
 
-- 🔭 Currently working on web and desktop applications using **PHP, C#, and Node.js**.
-- 🌱 Deepening my knowledge in **Backend Development, System Analysis, and Database Design**.
-- 💻 Exploring mobile UI design and cybersecurity tools.
-- ⚡ Fun fact: I love bringing ideas to life, from detailed data flow diagrams down to the final line of code.
+  <a href="https://github.com/Supawish35">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=40&lines=Full-Stack+Developer;Backend+%26+System+Architect;CS+Student+%40+Udon+Thani+Rajabhat+Univ;Crafting+Scalable+Web+%26+Desktop+Apps" alt="Typing SVG" />
+  </a>
 
----
+  <br />
 
-## 🛠️ Tech Stack & Tools
+  <p align="center">
+    <img src="https://img.shields.io/badge/Location-Thailand-09090B?style=for-the-badge&logo=googlemaps&logoColor=3B82F6" alt="Location" />
+    <img src="https://img.shields.io/badge/University-UDRU-09090B?style=for-the-badge&logo=academia&logoColor=3B82F6" alt="Education" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Architecture-09090B?style=for-the-badge&logo=serverfault&logoColor=3B82F6" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-09090B?style=for-the-badge&logo=statuspage&logoColor=3B82F6" alt="Status" />
+  </p>
 
-**Languages & Frameworks**  
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" border="0" />
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" border="0" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" border="0" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" border="0" />
-</div>
-
-**Databases & Cloud**  
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="40" height="40" border="0" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" border="0" />
-</div>
-
-**Tools & Environment**  
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" border="0" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" border="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" border="0" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### <img src="https://api.iconify.design/lucide/user-check.svg?color=%233b82f6" width="22" height="22" valign="middle" alt="profile" /> Profile Overview
+
+A dedicated **Full-Stack Developer** and Computer Science student at **Udon Thani Rajabhat University**, Thailand. Specialized in building responsive applications, architecting robust backend infrastructures, and turning complex system diagrams into performant, production-ready code.
+
+- <img src="https://api.iconify.design/lucide/terminal.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="terminal" /> **Core Development:** Building scalable web and desktop applications using **PHP, C#, Node.js, and Next.js**.
+- <img src="https://api.iconify.design/lucide/database.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="database" /> **Engineering Depth:** Concentrating on **System Analysis, Relational Database Modeling, and High-Availability Backend Services**.
+- <img src="https://api.iconify.design/lucide/shield-check.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="shield" /> **Quality & Security:** Exploring secure API authentication, modern interface styling, and cybersecurity tools.
+- <img src="https://api.iconify.design/lucide/sparkles.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="sparkles" /> **Engineering Philosophy:** Designing systems with clean boundaries, maintainable abstractions, and measurable efficiency.
+
+---
+
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%233b82f6" width="22" height="22" valign="middle" alt="stack" /> Tech Stack & Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top"><strong><img src="https://api.iconify.design/lucide/layers.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="frontend" /> Frontend</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend stack" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><strong><img src="https://api.iconify.design/lucide/server.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="backend" /> Backend & Systems</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,php,cs,python,c,kotlin" alt="Backend stack" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><strong><img src="https://api.iconify.design/lucide/database.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="database" /> Databases</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,mssql" alt="Databases" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><strong><img src="https://api.iconify.design/lucide/terminal.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="devops" /> DevOps & Tools</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,aws,azure,git,docker,postman" alt="DevOps and Tools" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%233b82f6" width="22" height="22" valign="middle" alt="activity" /> Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supawish35/Supawish35/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supawish35/Supawish35/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Supawish35/Supawish35/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Supawish35/Supawish35/output/pacman-contribution-graph.svg" width="100%" />
   </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Supawish35&show_icons=true&title_color=3b82f6&text_color=e4e4e7&icon_color=60a5fa&border_color=27272a&bg_color=09090b" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Supawish35&theme=dark&background=09090B&border=27272A&stroke=27272A&ring=3B82F6&fire=3B82F6&currStreakLabel=60A5FA" alt="GitHub Streak" height="165" />
 </div>
 
 ---
 
-## 🔗 Connect with Me
+### <img src="https://api.iconify.design/lucide/link.svg?color=%233b82f6" width="22" height="22" valign="middle" alt="connect" /> Connect & Collaborate
 
 <p align="center">
+  <a href="https://github.com/Supawish35" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Supawish35-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://www.facebook.com/supawish.hanmontree/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Supawit%20Hanmontree-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/mvi.sv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@mvi.sv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://www.youtube.com/@supawishhanmontree6363" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Supawit%20Hanmontree-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
