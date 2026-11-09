@@ -9,7 +9,7 @@
   <br />
 
   <a href="https://github.com/Supawish35">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&height=40&lines=Full-Stack+Developer;CS+Student+%40+Udon+Thani+Rajabhat+Univ;Crafting+Scalable+Web+%26+Desktop+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&height=40&lines=Full-Stack+Developer;CS+Student+%40+Udon+Thani+Rajabhat+Univ;Building+Web+%26+Desktop+Apps" alt="Typing SVG" />
   </a>
 
   <br />
@@ -17,7 +17,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Thailand-181825?style=for-the-badge&logo=googlemaps&logoColor=89B4FA" alt="Location" />
     <img src="https://img.shields.io/badge/University-UDRU-181825?style=for-the-badge&logo=academia&logoColor=89B4FA" alt="Education" />
-    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Architecture-181825?style=for-the-badge&logo=serverfault&logoColor=89B4FA" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20Development-181825?style=for-the-badge&logo=serverfault&logoColor=89B4FA" alt="Focus" />
     <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-181825?style=for-the-badge&logo=statuspage&logoColor=89B4FA" alt="Status" />
   </p>
 
@@ -25,14 +25,14 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide/user-check.svg?color=%2389b4fa" width="22" height="22" valign="middle" alt="profile" /> Profile Overview
+### <img src="https://api.iconify.design/lucide/user.svg?color=%2389b4fa" width="22" height="22" valign="middle" alt="about" /> About Me
 
-A dedicated **Full-Stack Developer** and Computer Science student at **Udon Thani Rajabhat University**, Thailand. Specialized in building responsive applications, architecting robust backend infrastructures, and turning complex system diagrams into performant, production-ready code.
+I am a full-stack developer and Computer Science student at **Udon Thani Rajabhat University**, Thailand. I build web and desktop applications, design backend systems, and turn system diagrams and database models into clean, working code.
 
-- <img src="https://api.iconify.design/lucide/terminal.svg?color=%2389b4fa" width="16" height="16" valign="middle" alt="terminal" /> **Core Development:** Building scalable web and desktop applications using **PHP, C#, Node.js, and Next.js**.
-- <img src="https://api.iconify.design/lucide/database.svg?color=%2389b4fa" width="16" height="16" valign="middle" alt="database" /> **Engineering Depth:** Concentrating on **System Analysis, Relational Database Modeling, and High-Availability Backend Services**.
-- <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2389b4fa" width="16" height="16" valign="middle" alt="shield" /> **Quality & Security:** Exploring secure API authentication, modern interface styling, and cybersecurity tools.
-- <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2389b4fa" width="16" height="16" valign="middle" alt="sparkles" /> **Engineering Philosophy:** Designing systems with clean boundaries, maintainable abstractions, and measurable efficiency.
+- <img src="https://api.iconify.design/lucide/terminal.svg?color=%2389b4fa" width="16" height="16" valign="middle" alt="terminal" /> **What I build:** Web and desktop applications using **Next.js, Angular, Node.js, PHP, C#, and C++**.
+- <img src="https://api.iconify.design/lucide/database.svg?color=%2389b4fa" width="16" height="16" valign="middle" alt="database" /> **Current focus:** Backend architecture, system analysis, and relational database design.
+- <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2389b4fa" width="16" height="16" valign="middle" alt="shield" /> **Also exploring:** Mobile UI design and cybersecurity tooling.
+- <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2389b4fa" width="16" height="16" valign="middle" alt="sparkles" /> **How I work:** I enjoy the complete process from data flow diagrams and database schema down to the actual implementation.
 
 ---
 
