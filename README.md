@@ -1,10 +1,6 @@
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&fontColor=ffffff&height=180&section=header&text=Supawit%20Hanmontree&fontSize=36&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20Student%20%40%20UDRU&descAlignY=54&descSize=19">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:334155,100:2563eb&fontColor=ffffff&height=180&section=header&text=Supawit%20Hanmontree&fontSize=36&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20Student%20%40%20UDRU&descAlignY=54&descSize=19">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&fontColor=ffffff&height=180&section=header&text=Supawit%20Hanmontree&fontSize=36&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20Student%20%40%20UDRU&descAlignY=54&descSize=19" alt="Supawit Hanmontree" width="100%" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&fontColor=ffffff&height=180&section=header&text=Supawit%20Hanmontree&fontSize=36&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=56&descSize=20" alt="Supawit Hanmontree" width="100%" />
 
   <a href="https://github.com/Supawish35">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=36&lines=Building+Web+%26+Desktop+Applications;Focused+on+Backend+%26+Relational+Databases;Turning+System+Architecture+into+Clean+Code" alt="Typing SVG" />
