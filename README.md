@@ -38,19 +38,19 @@ A dedicated **Full-Stack Developer** and Computer Science student at **Udon Than
   <tr>
     <td width="30%" valign="top"><strong><img src="https://api.iconify.design/lucide/layers.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="frontend" /> Frontend</strong></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend stack" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" alt="Frontend stack" /></a>
     </td>
   </tr>
   <tr>
     <td width="30%" valign="top"><strong><img src="https://api.iconify.design/lucide/server.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="backend" /> Backend & Systems</strong></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,php,cs,python,c,kotlin" alt="Backend stack" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,php,cs,python,c,cpp,kotlin" alt="Backend stack" /></a>
     </td>
   </tr>
   <tr>
     <td width="30%" valign="top"><strong><img src="https://api.iconify.design/lucide/database.svg?color=%233b82f6" width="16" height="16" valign="middle" alt="database" /> Databases</strong></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,mssql" alt="Databases" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mssql" alt="Databases" /></a>
     </td>
   </tr>
   <tr>
