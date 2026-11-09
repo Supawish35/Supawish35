@@ -5,7 +5,7 @@
   <br />
 
   <a href="https://github.com/Supawish35">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=40&lines=Full-Stack+Developer;Backend+%26+System+Architect;CS+Student+%40+Udon+Thani+Rajabhat+Univ;Crafting+Scalable+Web+%26+Desktop+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=40&lines=Full-Stack+Developer;CS+Student+%40+Udon+Thani+Rajabhat+Univ;Crafting+Scalable+Web+%26+Desktop+Apps" alt="Typing SVG" />
   </a>
 
   <br />
@@ -75,13 +75,6 @@ A dedicated **Full-Stack Developer** and Computer Science student at **Udon Than
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Supawish35&show_icons=true&title_color=3b82f6&text_color=e4e4e7&icon_color=60a5fa&border_color=27272a&bg_color=09090b" alt="GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Supawish35&theme=dark&background=09090B&border=27272A&stroke=27272A&ring=3B82F6&fire=3B82F6&currStreakLabel=60A5FA" alt="GitHub Streak" height="165" />
-</div>
-
----
 
 ### <img src="https://api.iconify.design/lucide/link.svg?color=%233b82f6" width="22" height="22" valign="middle" alt="connect" /> Connect & Collaborate
 
